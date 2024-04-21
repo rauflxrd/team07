@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: regular;
+}
+
+
+body {
+  background-image: linear-gradient(to right, #FFE000, #799F0C);
+}
+
+@font-face {
+  font-family: regular;
+  src: url(/assets/fonts/ShortStack-Regular.ttf);
+}
+.box {
+  width: 75%;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+span {
+  position: absolute;
+  top: 5%;
+}/*# sourceMappingURL=style.css.map */
+
+div.team{
+  padding: 100;
+}
+img{
+  box-sizing: border-box;
+  width: 7cm;
+  text-align: center;
+  margin-left: 6.5cm;
+}
